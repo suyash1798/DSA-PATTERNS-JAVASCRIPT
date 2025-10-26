@@ -4,21 +4,26 @@
 
 class Solution {
   solveKnapsack(profits, weights, capacity) {
-    return this.getMaxProfit(profits, 0, weights, capacity);
+    let memo = new Array(profits.length).fill(0).map(() => []);
+    return this.getMaxProfit(profits, 0, weights, capacity, memo);
   };
 
-  getMaxProfit(profits, index, weights, capacity){
+  getMaxProfit(profits, index, weights, capacity, memo){
     if(capacity <= 0 || index === profits.length){
       return 0;
+    }
+
+    if(memo[index][capacity] !== undefined){
+      return memo[index][capacity];
     }
 
     let include = 0;
 
     if(capacity >= weights[index]){
-      include = profits[index] + this.getMaxProfit(profits, index+1, weights, capacity - weights[index]);
+      include = profits[index] + this.getMaxProfit(profits, index+1, weights, capacity - weights[index], memo);
     }
-    let exclude = this.getMaxProfit(profits, index+1, weights, capacity);
+    let exclude = this.getMaxProfit(profits, index+1, weights, capacity, memo);
 
-    return Math.max(include, exclude);
+    return memo[index][capacity] = Math.max(include, exclude);
   }
 }
