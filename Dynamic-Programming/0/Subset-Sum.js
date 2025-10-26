@@ -39,4 +39,29 @@ class Solution {
 
 /** Bottom - Up */
 
+class Solution {
+  canPartition(num, sum) {
+    let dp = new Array(num.length).fill(0).map(() => new Array(sum + 1).fill(false));
+
+    for (let i = 0; i < num.length; i++) {
+      dp[i][0] = true;
+    }
+
+    for (let i = 0; i <= sum; i++) {
+      dp[0][i] = num[0] === i;
+    }
+
+    for (let i = 1; i < num.length; i++) {
+      for (let s = 1; s <= sum; s++) {
+        if (num[i] <= s) {
+          dp[i][s] = dp[i - 1][s] || dp[i - 1][s - num[i]];
+        } else {
+          dp[i][s] = dp[i - 1][s];
+        }
+      }
+    }
+
+    return dp[num.length - 1][sum];
+  }
+}
 
