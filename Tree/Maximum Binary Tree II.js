@@ -65,7 +65,7 @@ All the values of the tree are unique.
  */
 var insertIntoMaxTree = function (root, val) {
     let a = [];
-    
+
     function inorder(root) {
         if (!root) return;
 
@@ -95,3 +95,5 @@ var insertIntoMaxTree = function (root, val) {
 
     return maxTree(0, a.length - 1);
 };
+
+// There is optimized version of same O(H)
