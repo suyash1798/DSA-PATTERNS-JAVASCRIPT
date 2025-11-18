@@ -185,7 +185,8 @@
 3. [Minimum Add to Make Parentheses Valid](./Stack/Minimum-Add-to-Make-Parentheses-Valid.js)
 4. [Next Greater Element II](./Stack/Next-Greater-Element-II.js)
 5. [Online Stock Span](./Stack/Online-Stock-Span.js)
-6. [Removing Stars From a String](./Stack/Removing-Stars-From-a-String.js)
+6. [Remove All Adjacent Duplicates in String II](./Stack/Remove-All-Adjacent-Duplicates-in-String-II.js)
+7. [Removing Stars From a String](./Stack/Removing-Stars-From-a-String.js)
 
 ### 📝 String
 
