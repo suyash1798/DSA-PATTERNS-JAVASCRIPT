@@ -61,11 +61,12 @@
 4. [Equal Subset Sum Partition](./Dynamic-Programming/Equal-Subset-Sum-Partition.js)
 5. [Fibonacci Numbers](./Dynamic-Programming/Fibonacci-Numbers.js)
 6. [Longest Fibonacci Subarray](./Dynamic-Programming/Longest-Fibonacci-Subarray.js)
-7. [Minimum Path Cost in a Grid](./Dynamic-Programming/Minimum-Path-Cost-in-a-Grid.js)
-8. [Minimum Subset Sum Difference](./Dynamic-Programming/Minimum-Subset-Sum-Difference.js)
-9. [Staircase](./Dynamic-Programming/Staircase.js)
-10. [Subset Sum](./Dynamic-Programming/Subset-Sum.js)
-11. [Target Sum](./Dynamic-Programming/Target-Sum.js)
+7. [Maximum Absolute Sum of Any Subarray](./Dynamic-Programming/Maximum-Absolute-Sum-of-Any-Subarray.js)
+8. [Minimum Path Cost in a Grid](./Dynamic-Programming/Minimum-Path-Cost-in-a-Grid.js)
+9. [Minimum Subset Sum Difference](./Dynamic-Programming/Minimum-Subset-Sum-Difference.js)
+10. [Staircase](./Dynamic-Programming/Staircase.js)
+11. [Subset Sum](./Dynamic-Programming/Subset-Sum.js)
+12. [Target Sum](./Dynamic-Programming/Target-Sum.js)
 
 ### 🌐 Graph
 
@@ -120,8 +121,9 @@
 8. [Longest Balanced Subarray I](./HashMap/Longest-Balanced-Subarray-I.js)
 9. [Minimum Deletions to Make String K Special](./HashMap/Minimum-Deletions-to-Make-String-K-Special.js)
 10. [Minimum Distance Between Three Equal Elements II](./HashMap/Minimum-Distance-Between-Three-Equal-Elements-II.js)
-11. [Number of Matching Subsequences](./HashMap/Number-of-Matching-Subsequences.js)
-12. [Tuple with Same Product](./HashMap/Tuple-with-Same-Product.js)
+11. [Minimum Length of String After Operations](./HashMap/Minimum-Length-of-String-After-Operations.js)
+12. [Number of Matching Subsequences](./HashMap/Number-of-Matching-Subsequences.js)
+13. [Tuple with Same Product](./HashMap/Tuple-with-Same-Product.js)
 
 ### 🏔️ Heap
 
