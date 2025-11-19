@@ -137,12 +137,13 @@
 
 ### 🔗 Linked List
 
-1. [Insert Greatest Common Divisors in Linked List](./Linked-List/Insert-Greatest-Common-Divisors-in-Linked-List.js)
-2. [Linked List Random Node](./Linked-List/Linked-List-Random-Node.js)
-3. [Merge In Between Linked Lists](./Linked-List/Merge-In-Between-Linked-Lists.js)
-4. [Merge Nodes in Between Zeros](./Linked-List/Merge-Nodes-in-Between-Zeros.js)
-5. [Next Greater Node In Linked List](./Linked-List/Next-Greater-Node-In-Linked-List.js)
-6. [Remove Duplicates from Sorted List II](./Linked-List/Remove-Duplicates-from-Sorted-List-II.js)
+1. [Double a Number Represented as a Linked List](./Linked-List/Double-a-Number-Represented-as-a-Linked-List.js)
+2. [Insert Greatest Common Divisors in Linked List](./Linked-List/Insert-Greatest-Common-Divisors-in-Linked-List.js)
+3. [Linked List Random Node](./Linked-List/Linked-List-Random-Node.js)
+4. [Merge In Between Linked Lists](./Linked-List/Merge-In-Between-Linked-Lists.js)
+5. [Merge Nodes in Between Zeros](./Linked-List/Merge-Nodes-in-Between-Zeros.js)
+6. [Next Greater Node In Linked List](./Linked-List/Next-Greater-Node-In-Linked-List.js)
+7. [Remove Duplicates from Sorted List II](./Linked-List/Remove-Duplicates-from-Sorted-List-II.js)
 
 ### ➗ Math
 
