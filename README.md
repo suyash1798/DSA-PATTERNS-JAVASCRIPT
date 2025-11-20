@@ -45,13 +45,14 @@
 
 ### 🛠️ Design
 
-1. [Design a Stack With Increment Operation](./Design/Design-a-Stack-With-Increment-Operation.js)
-2. [Design Authentication Manager](./Design/Design-Authentication-Manager.js)
-3. [Design Browser History](./Design/Design-Browser-History.js)
-4. [Design Circular Deque](./Design/Design-Circular-Deque.js)
-5. [Encode and Decode TinyURL](./Design/Encode-and-Decode-TinyURL.js)
-6. [Frequency Tracker](./Design/Frequency-Tracker.js)
-7. [Operations on Tree](./Design/Operations-on-Tree.js)
+1. [Cache With Time Limit](./Design/Cache-With-Time-Limit.js)
+2. [Design a Stack With Increment Operation](./Design/Design-a-Stack-With-Increment-Operation.js)
+3. [Design Authentication Manager](./Design/Design-Authentication-Manager.js)
+4. [Design Browser History](./Design/Design-Browser-History.js)
+5. [Design Circular Deque](./Design/Design-Circular-Deque.js)
+6. [Encode and Decode TinyURL](./Design/Encode-and-Decode-TinyURL.js)
+7. [Frequency Tracker](./Design/Frequency-Tracker.js)
+8. [Operations on Tree](./Design/Operations-on-Tree.js)
 
 ### 💡 Dynamic Programming
 
@@ -130,7 +131,8 @@
 
 1. [Divide Intervals Into Minimum Number of Groups](./Heap/Divide-Intervals-Into-Minimum-Number-of-Groups.js)
 2. [K Closest Points to Origin](./Heap/K-Closest-Points-to-Origin.js)
-3. [Remove Stones to Minimize the Total](./Heap/Remove-Stones-to-Minimize-the-Total.js)
+3. [Kth Smallest Element in a Sorted Matrix](./Heap/Kth-Smallest-Element-in-a-Sorted-Matrix.js)
+4. [Remove Stones to Minimize the Total](./Heap/Remove-Stones-to-Minimize-the-Total.js)
 
 ### 💻 JavaScript
 
