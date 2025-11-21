@@ -11,15 +11,16 @@
 
 ### 🔄 Backtracking
 
-1. [Combinations](./Backtracking/Combinations.js)
-2. [Generate Binary Strings Without Adjacent Zeros](./Backtracking/Generate-Binary-Strings-Without-Adjacent-Zeros.js)
-3. [Letter Combinations of a Phone Number](./Backtracking/Letter-Combinations-of-a-Phone-Number.js)
-4. [Letter Tile Possibilities](./Backtracking/Letter-Tile-Possibilities.js)
-5. [Path with Maximum Gold](./Backtracking/Path-with-Maximum-Gold.js)
-6. [Permutations II](./Backtracking/Permutations-II.js)
-7. [Split a String Into the Max Number of Unique Substrings](./Backtracking/Split-a-String-Into-the-Max-Number-of-Unique-Substrings.js)
-8. [Subsets II](./Backtracking/Subsets-II.js)
-9. [The k th Lexicographical String of All Happy Strings of Length n](./Backtracking/The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n.js)
+1. [Combination Sum III](./Backtracking/Combination-Sum-III.js)
+2. [Combinations](./Backtracking/Combinations.js)
+3. [Generate Binary Strings Without Adjacent Zeros](./Backtracking/Generate-Binary-Strings-Without-Adjacent-Zeros.js)
+4. [Letter Combinations of a Phone Number](./Backtracking/Letter-Combinations-of-a-Phone-Number.js)
+5. [Letter Tile Possibilities](./Backtracking/Letter-Tile-Possibilities.js)
+6. [Path with Maximum Gold](./Backtracking/Path-with-Maximum-Gold.js)
+7. [Permutations II](./Backtracking/Permutations-II.js)
+8. [Split a String Into the Max Number of Unique Substrings](./Backtracking/Split-a-String-Into-the-Max-Number-of-Unique-Substrings.js)
+9. [Subsets II](./Backtracking/Subsets-II.js)
+10. [The k th Lexicographical String of All Happy Strings of Length n](./Backtracking/The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n.js)
 
 ### 🔍 Binary Search
 
