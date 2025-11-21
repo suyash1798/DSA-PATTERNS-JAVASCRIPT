@@ -228,8 +228,9 @@
 
 ### 🔤 Trie
 
-1. [Remove Sub Folders from the Filesystem](./Trie/Remove-Sub-Folders-from-the-Filesystem.js)
-2. [Replace Words](./Trie/Replace-Words.js)
+1. [Lexicographical Numbers](./Trie/Lexicographical-Numbers.js)
+2. [Remove Sub Folders from the Filesystem](./Trie/Remove-Sub-Folders-from-the-Filesystem.js)
+3. [Replace Words](./Trie/Replace-Words.js)
 
 ### ⬅️➡️ Two Pointers
 
