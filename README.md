@@ -64,10 +64,11 @@
 6. [Longest Fibonacci Subarray](./Dynamic-Programming/Longest-Fibonacci-Subarray.js)
 7. [Maximum Absolute Sum of Any Subarray](./Dynamic-Programming/Maximum-Absolute-Sum-of-Any-Subarray.js)
 8. [Minimum Path Cost in a Grid](./Dynamic-Programming/Minimum-Path-Cost-in-a-Grid.js)
-9. [Minimum Subset Sum Difference](./Dynamic-Programming/Minimum-Subset-Sum-Difference.js)
-10. [Staircase](./Dynamic-Programming/Staircase.js)
-11. [Subset Sum](./Dynamic-Programming/Subset-Sum.js)
-12. [Target Sum](./Dynamic-Programming/Target-Sum.js)
+9. [Minimum Path Sum](./Dynamic-Programming/Minimum-Path-Sum.js)
+10. [Minimum Subset Sum Difference](./Dynamic-Programming/Minimum-Subset-Sum-Difference.js)
+11. [Staircase](./Dynamic-Programming/Staircase.js)
+12. [Subset Sum](./Dynamic-Programming/Subset-Sum.js)
+13. [Target Sum](./Dynamic-Programming/Target-Sum.js)
 
 ### 🌐 Graph
 
