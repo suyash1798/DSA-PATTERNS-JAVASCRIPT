@@ -207,6 +207,7 @@
 1. [Execution of All Suffix Instructions Staying in a Grid](./String/Execution-of-All-Suffix-Instructions-Staying-in-a-Grid.js)
 2. [Find the Kth Largest Integer in the Array](./String/Find-the-Kth-Largest-Integer-in-the-Array.js)
 3. [Hash Divided String](./String/Hash-Divided-String.js)
+4. [Print Words Vertically](./String/Print-Words-Vertically.js)
 
 ### 🌳 Tree
 
