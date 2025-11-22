@@ -1,5 +1,7 @@
 # 🚀 DSA Patterns - JavaScript
 
+**Total Problems Solved: 184** 🎉
+
 ## 📖 Problems by Topic
 
 ### 🔢 Array
