@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 187** 🎉
+**Total Problems Solved: 188** 🎉
 
 ## 📖 Problems by Topic
 
@@ -196,12 +196,13 @@
 5. [Statistics from a Large Sample](./Prefix-Sum/Statistics-from-a-Large-Sample.js)
 6. [Sum of Absolute Differences in a Sorted Array](./Prefix-Sum/Sum-of-Absolute-Differences-in-a-Sorted-Array.js)
 
-### 🪟 Sliding Window (4)
+### 🪟 Sliding Window (5)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
-2. [Max Consecutive Ones III](./Sliding-Window/Max-Consecutive-Ones-III.js)
-3. [Maximize the Confusion of an Exam](./Sliding-Window/Maximize-the-Confusion-of-an-Exam.js)
-4. [Number of Substrings Containing All Three Characters](./Sliding-Window/Number-of-Substrings-Containing-All-Three-Characters.js)
+2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
+3. [Max Consecutive Ones III](./Sliding-Window/Max-Consecutive-Ones-III.js)
+4. [Maximize the Confusion of an Exam](./Sliding-Window/Maximize-the-Confusion-of-an-Exam.js)
+5. [Number of Substrings Containing All Three Characters](./Sliding-Window/Number-of-Substrings-Containing-All-Three-Characters.js)
 
 ### 📚 Stack (8)
 
