@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 191** 🎉
+**Total Problems Solved: 192** 🎉
 
 ## 📖 Problems by Topic
 
@@ -80,7 +80,7 @@
 13. [Subset Sum](./Dynamic-Programming/Subset-Sum.js)
 14. [Target Sum](./Dynamic-Programming/Target-Sum.js)
 
-### 🌐 Graph (12)
+### 🌐 Graph (13)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -88,12 +88,13 @@
 4. [Count the Number of Complete Components](./Graph/Count-the-Number-of-Complete-Components.js)
 5. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./Graph/Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold-Distance.js)
 6. [Loud and Rich](./Graph/Loud-and-Rich.js)
-7. [Path with Maximum Probability](./Graph/Path-with-Maximum-Probability.js)
-8. [Redundant Connection](./Graph/Redundant-Connection.js)
-9. [Reorder Routes to Make All Paths Lead to the City Zero](./Graph/Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero.js)
-10. [Shortest Distance After Road Addition Queries I](./Graph/Shortest-Distance-After-Road-Addition-Queries-I.js)
-11. [The Time When the Network Becomes Idle](./Graph/The-Time-When-the-Network-Becomes-Idle.js)
-12. [Unit Conversion I](./Graph/Unit-Conversion-I.js)
+7. [Minimum Time to Reach Destination in Directed Graph](./Graph/Minimum-Time-to-Reach-Destination-in-Directed-Graph.js)
+8. [Path with Maximum Probability](./Graph/Path-with-Maximum-Probability.js)
+9. [Redundant Connection](./Graph/Redundant-Connection.js)
+10. [Reorder Routes to Make All Paths Lead to the City Zero](./Graph/Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero.js)
+11. [Shortest Distance After Road Addition Queries I](./Graph/Shortest-Distance-After-Road-Addition-Queries-I.js)
+12. [The Time When the Network Becomes Idle](./Graph/The-Time-When-the-Network-Becomes-Idle.js)
+13. [Unit Conversion I](./Graph/Unit-Conversion-I.js)
 
 ### 🎯 Greedy (27)
 
