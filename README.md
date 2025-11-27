@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 201** 🎉
+**Total Problems Solved: 202** 🎉
 
 ## 📖 Problems by Topic
 
@@ -132,7 +132,7 @@
 28. [Time Needed to Rearrange a Binary String](./Greedy/Time-Needed-to-Rearrange-a-Binary-String.js)
 29. [Maximum Palindromes After Operations](./Greedy/Maximum-Palindromes-After-Operations.js)
 
-### 🗺️ HashMap (16)
+### 🗺️ HashMap (17)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -150,6 +150,7 @@
 14. [Number of Matching Subsequences](./HashMap/Number-of-Matching-Subsequences.js)
 15. [Tuple with Same Product](./HashMap/Tuple-with-Same-Product.js)
 16. [K-diff Pairs in an Array](./HashMap/K-diff-Pairs-in-an-Array.js)
+17. [Pairs of Songs With Total Durations Divisible by 60](./HashMap/Pairs-of-Songs-With-Total-Durations-Divisible-by-60.js)
 
 ### 🏔️ Heap (4)
 
