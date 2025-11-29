@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 214** 🎉
+**Total Problems Solved: 215** 🎉
 
 ## 📖 Problems by Topic
 
@@ -217,7 +217,7 @@
 5. [Statistics from a Large Sample](./Prefix-Sum/Statistics-from-a-Large-Sample.js)
 6. [Sum of Absolute Differences in a Sorted Array](./Prefix-Sum/Sum-of-Absolute-Differences-in-a-Sorted-Array.js)
 
-### 🪟 Sliding Window (8)
+### 🪟 Sliding Window (9)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -227,6 +227,7 @@
 6. [Continuous Subarrays](./Sliding-Window/Continuous-Subarrays.js)
 7. [Jump Game VII](./Sliding-Window/Jump-Game-VII.js)
 8. [Length of Longest Subarray With at Most K Frequency](./Sliding-Window/Length-of-Longest-Subarray-With-at-Most-K-Frequency.js)
+9. [Longest Substring Of All Vowels in Order](./Sliding-Window/Longest-Substring-Of-All-Vowels-in-Order.js)
 
 ### 📚 Stack (8)
 
