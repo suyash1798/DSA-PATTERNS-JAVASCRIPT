@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 212** 🎉
+**Total Problems Solved: 213** 🎉
 
 ## 📖 Problems by Topic
 
@@ -54,7 +54,7 @@
 2. [Minimum String Length After Balanced Removals](./Counting/Minimum-String-Length-After-Balanced-Removals.js)
 3. [Sum of Beauty of All Substrings](./Counting/Sum-of-Beauty-of-All-Substrings.js)
 
-### 🛠️ Design (9)
+### 🛠️ Design (10)
 
 1. [Cache With Time Limit](./Design/Cache-With-Time-Limit.js)
 2. [Design a Stack With Increment Operation](./Design/Design-a-Stack-With-Increment-Operation.js)
@@ -65,6 +65,7 @@
 7. [Frequency Tracker](./Design/Frequency-Tracker.js)
 8. [Operations on Tree](./Design/Operations-on-Tree.js)
 9. [Apply Discount Every n Orders](./Design/Apply-Discount-Every-n-Orders.js)
+10. [Complete Binary Tree Inserter](./Design/Complete-Binary-Tree-Inserter.js)
 
 ### 💡 Dynamic Programming (18)
 
