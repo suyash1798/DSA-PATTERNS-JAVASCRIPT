@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 206** 🎉
+**Total Problems Solved: 207** 🎉
 
 ## 📖 Problems by Topic
 
@@ -64,7 +64,7 @@
 7. [Frequency Tracker](./Design/Frequency-Tracker.js)
 8. [Operations on Tree](./Design/Operations-on-Tree.js)
 
-### 💡 Dynamic Programming (17)
+### 💡 Dynamic Programming (18)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1%20KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -83,6 +83,7 @@
 15. [Target Sum](./Dynamic-Programming/Target-Sum.js)
 16. [Count Ways To Build Good Strings](./Dynamic-Programming/Count-Ways-To-Build-Good-Strings.js)
 17. [Number of Ways to Buy Pens and Pencils](./Dynamic-Programming/Number-of-Ways-to-Buy-Pens-and-Pencils.js)
+18. [Largest Divisible Subset](./Dynamic-Programming/Largest-Divisible-Subset.js)
 
 ### 🌐 Graph (14)
 
