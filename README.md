@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 215** 🎉
+**Total Problems Solved: 216** 🎉
 
 ## 📖 Problems by Topic
 
@@ -208,7 +208,7 @@
 7. [Shortest Bridge](./Matrix/Shortest-Bridge.js)
 8. [Equal Sum Grid Partition I](./Matrix/Equal-Sum-Grid-Partition-I.js)
 
-### ➕ Prefix Sum (7)
+### ➕ Prefix Sum (8)
 
 1. [Find All Good Indices](./Prefix-Sum/Find-All-Good-Indices.js)
 2. [Find Good Days to Rob the Bank](./Prefix-Sum/Find-Good-Days-to-Rob-the-Bank.js)
@@ -216,6 +216,7 @@
 4. [Minimum Number of Operations to Move All Balls to Each Box](./Prefix-Sum/Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box.js)
 5. [Statistics from a Large Sample](./Prefix-Sum/Statistics-from-a-Large-Sample.js)
 6. [Sum of Absolute Differences in a Sorted Array](./Prefix-Sum/Sum-of-Absolute-Differences-in-a-Sorted-Array.js)
+7. [Ways to Make a Fair Array](./Prefix-Sum/Ways-to-Make-a-Fair-Array.js)
 
 ### 🪟 Sliding Window (9)
 
