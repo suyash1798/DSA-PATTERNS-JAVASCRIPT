@@ -41,7 +41,7 @@
 4. [Maximum OR](./BitWise/Maximum-OR.js)
 5. [Minimum Flips to Make a OR b Equal to c](./BitWise/Minimum-Flips-to-Make-a-OR-b-Equal-to-c.js)
 6. [Minimum Number of Operations to Make Array XOR Equal to K](./BitWise/Minimum-Number-of-Operations-to-Make-Array-XOR-Equal-to-K.js)
-7. [Minimum Operations to Make Binary Array Elements Equal to One I](./BitWise/Minimum-Operations to-Make-Binary-Array-Elements-Equal-to-One-I.js)
+7. [Minimum Operations to Make Binary Array Elements Equal to One I](./BitWise/Minimum-Operations-to-Make-Binary-Array-Elements-Equal-to-One-I.js)
 8. [Neighboring Bitwise XOR](./BitWise/Neighboring-Bitwise-XOR.js)
 
 ### 🗂️ Bucket Sort (1)
@@ -69,7 +69,7 @@
 
 ### 💡 Dynamic Programming (18)
 
-1. [0 1 KnapSack](./Dynamic-Programming/0-1 KnapSack.js)
+1. [0 1 KnapSack](./Dynamic-Programming/0-1-KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
 3. [Count of Subset Sum](./Dynamic-Programming/Count-of-Subset-Sum.js)
 4. [Equal Subset Sum Partition](./Dynamic-Programming/Equal-Subset-Sum-Partition.js)
@@ -270,7 +270,7 @@
 11. [K th Largest Perfect Subtree Size in Binary Tree](./Tree/K-th-Largest-Perfect-Subtree-Size-in-Binary-Tree.js)
 12. [Lowest Common Ancestor of a Binary Search Tree](./Tree/Lowest-Common-Ancestor-of-a-Binary-Search-Tree.js)
 13. [Lowest Common Ancestor of a Binary Tree](./Tree/Lowest-Common-Ancestor-of-a-Binary-Tree.js)
-14. [Maximum Binary Tree II](./Tree/Maximum Binary Tree II.js)
+14. [Maximum Binary Tree II](./Tree/Maximum-Binary-Tree-II.js)
 15. [Maximum Binary Tree](./Tree/Maximum-Binary-Tree.js)
 16. [Maximum Difference Between Node and Ancestor](./Tree/Maximum-Difference-Between-Node-and-Ancestor.js)
 17. [Path Sum II](./Tree/Path-Sum-II.js)
