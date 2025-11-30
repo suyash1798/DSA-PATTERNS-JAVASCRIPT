@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 220** 🎉
+**Total Problems Solved: 222** 🎉
 
 ## 📖 Problems by Topic
 
@@ -41,7 +41,7 @@
 4. [Maximum OR](./BitWise/Maximum-OR.js)
 5. [Minimum Flips to Make a OR b Equal to c](./BitWise/Minimum-Flips-to-Make-a-OR-b-Equal-to-c.js)
 6. [Minimum Number of Operations to Make Array XOR Equal to K](./BitWise/Minimum-Number-of-Operations-to-Make-Array-XOR-Equal-to-K.js)
-7. [Minimum Operations to Make Binary Array Elements Equal to One I](./BitWise/Minimum-Operations%20to-Make-Binary-Array-Elements-Equal-to-One-I.js)
+7. [Minimum Operations to Make Binary Array Elements Equal to One I](./BitWise/Minimum-Operations to-Make-Binary-Array-Elements-Equal-to-One-I.js)
 8. [Neighboring Bitwise XOR](./BitWise/Neighboring-Bitwise-XOR.js)
 
 ### 🗂️ Bucket Sort (1)
@@ -69,7 +69,7 @@
 
 ### 💡 Dynamic Programming (18)
 
-1. [0 1 KnapSack](./Dynamic-Programming/0-1%20KnapSack.js)
+1. [0 1 KnapSack](./Dynamic-Programming/0-1 KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
 3. [Count of Subset Sum](./Dynamic-Programming/Count-of-Subset-Sum.js)
 4. [Equal Subset Sum Partition](./Dynamic-Programming/Equal-Subset-Sum-Partition.js)
@@ -140,7 +140,7 @@
 31. [Remove Covered Intervals](./Greedy/Remove-Covered-Intervals.js)
 32. [Maximum Value after Insertion](./Greedy/Maximum-Value-after-Insertion.js)
 
-### 🗺️ HashMap (17)
+### 🗺️ HashMap (18)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -159,6 +159,7 @@
 15. [Tuple with Same Product](./HashMap/Tuple-with-Same-Product.js)
 16. [K-diff Pairs in an Array](./HashMap/K-diff-Pairs-in-an-Array.js)
 17. [Pairs of Songs With Total Durations Divisible by 60](./HashMap/Pairs-of-Songs-With-Total-Durations-Divisible-by-60.js)
+18. [Construct K Palindrome Strings](./HashMap/Construct-K-Palindrome-Strings.js)
 
 ### 🏔️ Heap (5)
 
@@ -200,7 +201,7 @@
 7. [Vowels Game in a String](./Math/Vowels-Game-in-a-String.js)
 8. [Vowels of All Substrings](./Math/Vowels-of-All-Substrings.js)
 
-### 📐 Matrix (8)
+### 📐 Matrix (9)
 
 1. [Battleships in a Board](./Matrix/Battleships-in-a-Board.js)
 2. [Matrix Block Sum](./Matrix/Matrix-Block-Sum.js)
@@ -209,6 +210,7 @@
 6. [Rotting Oranges](./Matrix/Rotting-Oranges.js)
 7. [Shortest Bridge](./Matrix/Shortest-Bridge.js)
 8. [Equal Sum Grid Partition I](./Matrix/Equal-Sum-Grid-Partition-I.js)
+9. [Sort The Students By Their Kth Score](./Matrix/Sort-the-Students-by-Their-Kth-Score.js)
 
 ### ➕ Prefix Sum (8)
 
@@ -219,8 +221,9 @@
 5. [Statistics from a Large Sample](./Prefix-Sum/Statistics-from-a-Large-Sample.js)
 6. [Sum of Absolute Differences in a Sorted Array](./Prefix-Sum/Sum-of-Absolute-Differences-in-a-Sorted-Array.js)
 7. [Ways to Make a Fair Array](./Prefix-Sum/Ways-to-Make-a-Fair-Array.js)
+8. [Longest Mountain In Array](./Prefix-Sum/Longest-Mountain-in-Array.js)
 
-### 🪟 Sliding Window (10)
+### 🪟 Sliding Window (11)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -232,6 +235,7 @@
 8. [Length of Longest Subarray With at Most K Frequency](./Sliding-Window/Length-of-Longest-Subarray-With-at-Most-K-Frequency.js)
 9. [Longest Substring Of All Vowels in Order](./Sliding-Window/Longest-Substring-Of-All-Vowels-in-Order.js)
 10. [Count Subarrays Where Max Element Appears at Least K Times](./Sliding-Window/Count-Subarrays-Where-Max-Element-Appears-at-Least-K-Times.js)
+11. [Count Substrings With K Frequency Characters I](./Sliding-Window/Count-Substrings-With-K-Frequency-Characters-I.js)
 
 ### 📚 Stack (8)
 
@@ -266,7 +270,7 @@
 11. [K th Largest Perfect Subtree Size in Binary Tree](./Tree/K-th-Largest-Perfect-Subtree-Size-in-Binary-Tree.js)
 12. [Lowest Common Ancestor of a Binary Search Tree](./Tree/Lowest-Common-Ancestor-of-a-Binary-Search-Tree.js)
 13. [Lowest Common Ancestor of a Binary Tree](./Tree/Lowest-Common-Ancestor-of-a-Binary-Tree.js)
-14. [Maximum Binary Tree II](./Tree/Maximum%20Binary%20Tree%20II.js)
+14. [Maximum Binary Tree II](./Tree/Maximum Binary Tree II.js)
 15. [Maximum Binary Tree](./Tree/Maximum-Binary-Tree.js)
 16. [Maximum Difference Between Node and Ancestor](./Tree/Maximum-Difference-Between-Node-and-Ancestor.js)
 17. [Path Sum II](./Tree/Path-Sum-II.js)
