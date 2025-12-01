@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 225** 🎉
+**Total Problems Solved: 226** 🎉
 
 ## 📖 Problems by Topic
 
@@ -15,7 +15,7 @@
 7. [Sum of Even Numbers After Queries](./Array/Sum-of-Even-Numbers-After-Queries.js)
 8. [Number of Zero-Filled Subarrays](./Array/Number-of-Zero-Filled-Subarrays.js)
 
-### 🔄 Backtracking (10)
+### 🔄 Backtracking (11)
 
 1. [Combination Sum III](./Backtracking/Combination-Sum-III.js)
 2. [Combinations](./Backtracking/Combinations.js)
@@ -27,6 +27,7 @@
 8. [Split a String Into the Max Number of Unique Substrings](./Backtracking/Split-a-String-Into-the-Max-Number-of-Unique-Substrings.js)
 9. [Subsets II](./Backtracking/Subsets-II.js)
 10. [The k th Lexicographical String of All Happy Strings of Length n](./Backtracking/The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n.js)
+11. [Combination Sum](./Backtracking/Combination-Sum.js)
 
 ### 🔍 Binary Search (2)
 
