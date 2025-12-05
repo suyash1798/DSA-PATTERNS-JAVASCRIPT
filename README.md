@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 233** 🎉
+**Total Problems Solved: 234** 🎉
 
 ## 📖 Problems by Topic
 
@@ -56,7 +56,7 @@
 3. [Sum of Beauty of All Substrings](./Counting/Sum-of-Beauty-of-All-Substrings.js)
 4. [Count Number of Homogenous Substrings](./Counting/Count-Number-of-Homogenous-Substrings.js)
 
-### 🛠️ Design (11)
+### 🛠️ Design (12)
 
 1. [Cache With Time Limit](./Design/Cache-With-Time-Limit.js)
 2. [Design a Stack With Increment Operation](./Design/Design-a-Stack-With-Increment-Operation.js)
@@ -69,6 +69,7 @@
 9. [Apply Discount Every n Orders](./Design/Apply-Discount-Every-n-Orders.js)
 10. [Complete Binary Tree Inserter](./Design/Complete-Binary-Tree-Inserter.js)
 11. [Serialize and Deserialize Binary Tree](./Design/Serialize-and-Deserialize-Binary-Tree.js)
+12. [LRU Cache](./Design/LRU-Cache.js)
 
 ### 💡 Dynamic Programming (18)
 
