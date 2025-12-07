@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 243** 🎉
+**Total Problems Solved: 244** 🎉
 
 ## 📖 Problems by Topic
 
@@ -115,7 +115,7 @@
 17. [Course Schedule II](./Graph/Course-Schedule-II.js)
 18. [Clone Graph](./Graph/Clone-Graph.js)
 
-### 🎯 Greedy (32)
+### 🎯 Greedy (33)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -149,6 +149,7 @@
 30. [The Number of Weak Characters in the Game](./Greedy/The-Number-of-Weak-Characters-in-the-Game.js)
 31. [Remove Covered Intervals](./Greedy/Remove-Covered-Intervals.js)
 32. [Maximum Value after Insertion](./Greedy/Maximum-Value-after-Insertion.js)
+33. [Non-overlapping Intervals](./Greedy/Non-overlapping-Intervals.js)
 
 ### 🗺️ HashMap (19)
 
