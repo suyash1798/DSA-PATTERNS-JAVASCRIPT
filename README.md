@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 241** 🎉
+**Total Problems Solved: 242** 🎉
 
 ## 📖 Problems by Topic
 
@@ -29,10 +29,11 @@
 10. [The k th Lexicographical String of All Happy Strings of Length n](./Backtracking/The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n.js)
 11. [Combination Sum](./Backtracking/Combination-Sum.js)
 
-### 🔍 Binary Search (2)
+### 🔍 Binary Search (3)
 
 1. [Minimum Absolute Sum Difference](./Binary-Search/Minimum-Absolute-Sum-Difference.js)
 2. [Successful Pairs of Spells and Potions](./Binary-Search/Successful-Pairs-of-Spells-and-Potions.js)
+3. [Search in Rotated Sorted Array](./Binary-Search/Search-in-Rotated-Sorted-Array.js)
 
 ### 🔢 BitWise (8)
 
