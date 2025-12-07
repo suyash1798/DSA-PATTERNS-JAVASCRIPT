@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 242** 🎉
+**Total Problems Solved: 243** 🎉
 
 ## 📖 Problems by Topic
 
@@ -229,7 +229,7 @@
 9. [Sort The Students By Their Kth Score](./Matrix/Sort-the-Students-by-Their-Kth-Score.js)
 10. [Unique Paths](./Matrix/Unique-Paths.js)
 
-### ➕ Prefix Sum (8)
+### ➕ Prefix Sum (9)
 
 1. [Find All Good Indices](./Prefix-Sum/Find-All-Good-Indices.js)
 2. [Find Good Days to Rob the Bank](./Prefix-Sum/Find-Good-Days-to-Rob-the-Bank.js)
@@ -239,6 +239,7 @@
 6. [Sum of Absolute Differences in a Sorted Array](./Prefix-Sum/Sum-of-Absolute-Differences-in-a-Sorted-Array.js)
 7. [Ways to Make a Fair Array](./Prefix-Sum/Ways-to-Make-a-Fair-Array.js)
 8. [Longest Mountain In Array](./Prefix-Sum/Longest-Mountain-in-Array.js)
+9. [Subarray Sum Equals K](./Prefix-Sum/Subarray-Sum-Equals-K.js)
 
 ### 🪟 Sliding Window (12)
 
