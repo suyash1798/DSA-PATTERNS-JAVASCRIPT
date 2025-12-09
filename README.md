@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 255** 🎉
+**Total Problems Solved: 256** 🎉
 
 ## 📖 Problems by Topic
 
@@ -77,7 +77,7 @@
 15. [Design Underground System](./Design/Design-Underground-System.js)
 16. [Min Stack](./Design/Min-Stack.js)
 
-### 💡 Dynamic Programming (22)
+### 💡 Dynamic Programming (23)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1-KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -101,6 +101,7 @@
 20. [Climbing Stairs](./Dynamic-Programming/Climbing-Stairs.js)
 21. [House Robber](./Dynamic-Programming/House-Robber.js)
 22. [House Robber II](./Dynamic-Programming/House-Robber-II.js)
+23. [Maximum Subarray](./Dynamic-Programming/Maximum-Subarray.js)
 
 ### 🌐 Graph (19)
 
