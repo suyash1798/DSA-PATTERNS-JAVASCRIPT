@@ -32,3 +32,31 @@ Constraints:
 
 
 */
+
+
+/**
+ * @param {number[]} arr
+ * @param {number} k
+ * @return {number}
+ */
+var kConcatenationMaxSum = function (arr, k) {
+    let max = 0, total = 0, sum = 0;
+    let mod = Math.pow(10, 9) + 7;
+
+    for (let num of arr) {
+        total += num;
+        sum = Math.max(num, sum + num);
+        max = Math.max(max, sum);
+    }
+
+    if (k === 1) return max;
+
+    for (let num of arr) {
+        sum = Math.max(num, sum + num);
+        max = Math.max(max, sum);
+    }
+
+    if (total <= 0) return max;
+
+    return (max + (total * (k - 2))) % mod;
+};
