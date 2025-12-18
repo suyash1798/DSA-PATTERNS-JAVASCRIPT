@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 286** 🎉
+**Total Problems Solved: 287** 🎉
 
 ## 📖 Problems by Topic
 
@@ -347,7 +347,7 @@
 2. [Remove Sub Folders from the Filesystem](./Trie/Remove-Sub-Folders-from-the-Filesystem.js)
 3. [Replace Words](./Trie/Replace-Words.js)
 
-### ⬅️➡️ Two Pointers (10)
+### ⬅️➡️ Two Pointers (11)
 
 1. [Append Characters to String to Make Subsequence](./Two-Pointers/Append-Characters-to-String-to-Make-Subsequence.js)
 2. [Find K Closest Elements](./Two-Pointers/Find-K-Closest-Elements.js)
@@ -359,5 +359,6 @@
 8. [Sentence Similarity III](./Two-Pointers/Sentence-Similarity-III.js)
 9. [Minimum Moves to Balance Circular Array](./Two-Pointers/Minimum-Moves-to-Balance-Circular-Array.js)
 10. [Divide Players Into Teams of Equal Skill](./Two-Pointers/Divide-Players-Into-Teams-of-Equal-Skill.js)
+11. [Number of Subsequences That Satisfy the Given Sum Condition](./Two-Pointers/Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition.js)
 
 ---
