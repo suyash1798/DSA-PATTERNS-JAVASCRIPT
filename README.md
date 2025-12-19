@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 290** 🎉
+**Total Problems Solved: 291** 🎉
 
 ## 📖 Problems by Topic
 
@@ -146,7 +146,7 @@
 18. [Clone Graph](./Graph/Clone-Graph.js)
 19. [Satisfiability of Equality Equations](./Graph/Satisfiability-of-Equality-Equations.js)
 
-### 🎯 Greedy (33)
+### 🎯 Greedy (34)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -181,6 +181,7 @@
 31. [Remove Covered Intervals](./Greedy/Remove-Covered-Intervals.js)
 32. [Maximum Value after Insertion](./Greedy/Maximum-Value-after-Insertion.js)
 33. [Non-overlapping Intervals](./Greedy/Non-overlapping-Intervals.js)
+34. [Remove Adjacent Almost Equal Characters](./Greedy/Remove-Adjacent-Almost-Equal-Characters.js)
 
 ### 🗺️ HashMap (19)
 
