@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 288** 🎉
+**Total Problems Solved: 289** 🎉
 
 ## 📖 Problems by Topic
 
@@ -297,7 +297,7 @@
 13. [Maximum Sum of Almost Unique Subarray](./Sliding-Window/Maximum-Sum-of-Almost-Unique-Subarray.js)
 14. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./Sliding-Window/Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit.js)
 
-### 📚 Stack (8)
+### 📚 Stack (9)
 
 1. [Build an Array With Stack Operations](./Stack/Build-an-Array-With-Stack-Operations.js)
 2. [Construct Smallest Number From DI String](./Stack/Construct-Smallest-Number-From-DI-String.js)
@@ -307,6 +307,7 @@
 6. [Online Stock Span](./Stack/Online-Stock-Span.js)
 7. [Remove All Adjacent Duplicates in String II](./Stack/Remove-All-Adjacent-Duplicates-in-String-II.js)
 8. [Removing Stars From a String](./Stack/Removing-Stars-From-a-String.js)
+9. [Validate Stack Sequences](./Stack/Validate-Stack-Sequences.js)
 
 ### 🔤 String (5)
 
