@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 291** 🎉
+**Total Problems Solved: 294** 🎉
 
 ## 📖 Problems by Topic
 
@@ -124,7 +124,7 @@
 39. [Combination Sum IV](./Dynamic-Programming/Combination-Sum-IV.js)
 40. [K Concatenation Maximum Sum](./Dynamic-Programming/K-Concatenation-Maximum-Sum.js)
 
-### 🌐 Graph (19)
+### 🌐 Graph (20)
 
 1. [Accounts Merge](./Graph/Accounts-Merge.js)
 2. [All Paths From Source to Target](./Graph/All-Paths-From-Source-to-Target.js)
@@ -145,8 +145,9 @@
 17. [Course Schedule II](./Graph/Course-Schedule-II.js)
 18. [Clone Graph](./Graph/Clone-Graph.js)
 19. [Satisfiability of Equality Equations](./Graph/Satisfiability-of-Equality-Equations.js)
+20. [Possible Bipartition](./Graph/Possible-Bipartition.js)
 
-### 🎯 Greedy (34)
+### 🎯 Greedy (35)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -182,6 +183,7 @@
 32. [Maximum Value after Insertion](./Greedy/Maximum-Value-after-Insertion.js)
 33. [Non-overlapping Intervals](./Greedy/Non-overlapping-Intervals.js)
 34. [Remove Adjacent Almost Equal Characters](./Greedy/Remove-Adjacent-Almost-Equal-Characters.js)
+35. [Two City Scheduling](./Greedy/Two-City-Scheduling.js)
 
 ### 🗺️ HashMap (19)
 
@@ -281,7 +283,7 @@
 9. [Subarray Sum Equals K](./Prefix-Sum/Subarray-Sum-Equals-K.js)
 10. [Trapping Rain Water](./Prefix-Sum/Trapping-Rain-Water.js)
 
-### 🪟 Sliding Window (14)
+### 🪟 Sliding Window (15)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -298,6 +300,7 @@
 12. [Sliding Window Maximum](./Sliding-Window/Sliding-Window-Maximum.js)
 13. [Maximum Sum of Almost Unique Subarray](./Sliding-Window/Maximum-Sum-of-Almost-Unique-Subarray.js)
 14. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./Sliding-Window/Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit.js)
+15. [Reschedule Meetings for Maximum Free Time I](./Sliding-Window/Reschedule-Meetings-for-Maximum-Free-Time-I.js)
 
 ### 📚 Stack (9)
 
