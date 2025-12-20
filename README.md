@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 294** 🎉
+**Total Problems Solved: 295** 🎉
 
 ## 📖 Problems by Topic
 
@@ -33,11 +33,12 @@
 12. [N-Queens](./Backtracking/N-Queens.js)
 13. [Letter Case Permutation](./Backtracking/Letter-Case-Permutation.js)
 
-### 🔍 Binary Search (3)
+### 🔍 Binary Search (4)
 
 1. [Minimum Absolute Sum Difference](./Binary-Search/Minimum-Absolute-Sum-Difference.js)
 2. [Successful Pairs of Spells and Potions](./Binary-Search/Successful-Pairs-of-Spells-and-Potions.js)
 3. [Search in Rotated Sorted Array](./Binary-Search/Search-in-Rotated-Sorted-Array.js)
+4. [Peak Index in a Mountain Array](./Binary-Search/Peak-Index-in-a-Mountain-Array.js)
 
 ### 🔢 BitWise (8)
 
