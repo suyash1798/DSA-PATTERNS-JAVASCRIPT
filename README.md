@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 302** 🎉
+**Total Problems Solved: 303** 🎉
 
 ## 📖 Problems by Topic
 
@@ -40,7 +40,7 @@
 3. [Search in Rotated Sorted Array](./Binary-Search/Search-in-Rotated-Sorted-Array.js)
 4. [Peak Index in a Mountain Array](./Binary-Search/Peak-Index-in-a-Mountain-Array.js)
 
-### 🔢 BitWise (8)
+### 🔢 BitWise (9)
 
 1. [Bitwise AND of Numbers Range](./BitWise/Bitwise-AND-of-Numbers-Range.js)
 2. [Count Number of Maximum Bitwise OR Subsets](./BitWise/Count-Number-of-Maximum-Bitwise-OR-Subsets.js)
@@ -50,6 +50,7 @@
 6. [Minimum Number of Operations to Make Array XOR Equal to K](./BitWise/Minimum-Number-of-Operations-to-Make-Array-XOR-Equal-to-K.js)
 7. [Minimum Operations to Make Binary Array Elements Equal to One I](./BitWise/Minimum-Operations-to-Make-Binary-Array-Elements-Equal-to-One-I.js)
 8. [Neighboring Bitwise XOR](./BitWise/Neighboring-Bitwise-XOR.js)
+9. [Total Hamming Distance](./BitWise/Total-Hamming-Distance.js)
 
 ### 🗂️ Bucket Sort (1)
 
