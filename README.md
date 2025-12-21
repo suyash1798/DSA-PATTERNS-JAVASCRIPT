@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 303** 🎉
+**Total Problems Solved: 304** 🎉
 
 ## 📖 Problems by Topic
 
@@ -261,7 +261,7 @@
 9. [Largest Prime from Consecutive Prime Sum](./Math/Largest-Prime-from-Consecutive-Prime-Sum.js)
 10. [Number of Smooth Descent Periods of a Stock](./Math/Number-of-Smooth-Descent-Periods-of-a-Stock.js)
 
-### 📐 Matrix (11)
+### 📐 Matrix (12)
 
 1. [Battleships in a Board](./Matrix/Battleships-in-a-Board.js)
 2. [Matrix Block Sum](./Matrix/Matrix-Block-Sum.js)
@@ -274,6 +274,7 @@
 9. [Sort The Students By Their Kth Score](./Matrix/Sort-the-Students-by-Their-Kth-Score.js)
 10. [Unique Paths](./Matrix/Unique-Paths.js)
 11. [Spiral Matrix](./Matrix/Spiral-Matrix.js)
+12. [Magic Squares In Grid](./Matrix/Magic-Squares-In-Grid.js)
 
 ### ➕ Prefix Sum (10)
 
