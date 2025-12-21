@@ -48,30 +48,28 @@ Constraints:
  * @param {number} limit
  * @return {number}
  */
-var longestSubarray = function (nums, limit) {
-    let minQ = [], maxQ = [];
-    let start = 0, ans = 0;
+var longestSubarray = function(nums, limit) {
+    let max = [], min = [], start = 0, maxl = 0;
+    let maxId = 0, minId = 0;
 
-    for (let end = 0; end < nums.length; end++) {
+    for(let i = 0; i < nums.length; i++){
+        let num = nums[i];
 
-        while (minQ.length && minQ[minQ.length - 1] > nums[end]) {
-            minQ.pop();
-        }
-        minQ.push(nums[end]);
+        while(maxId < max.length && max[max.length-1] < num) max.pop();
+        while(minId < min.length && min[min.length-1] > num) min.pop();
 
-        while (maxQ.length && maxQ[maxQ.length - 1] < nums[end]) {
-            maxQ.pop();
-        }
-        maxQ.push(nums[end]);
+        max.push(num);
+        min.push(num);
 
-        while (maxQ[0] - minQ[0] > limit) {
-            if (nums[start] === maxQ[0]) maxQ.shift();
-            if (nums[start] === minQ[0]) minQ.shift();
+        while(maxId < max.length && minId < min.length && (max[maxId] - min[minId]) > limit){
+            if(max[maxId] === nums[start]) maxId++;
+            if(min[minId] === nums[start]) minId++;
+
             start++;
         }
 
-        ans = Math.max(ans, end - start + 1);
+        maxl = Math.max(maxl, i - start + 1);
     }
 
-    return ans;
+    return maxl;
 };
