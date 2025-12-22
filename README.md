@@ -332,7 +332,7 @@
 4. [Print Words Vertically](./String/Print-Words-Vertically.js)
 5. [Reverse Words With Same Vowel Count](./String/Reverse-Words-With-Same-Vowel-Count.js)
 
-### 🌳 Tree (26)
+### 🌳 Tree (27)
 
 1. [Binary Search Tree to Greater Sum Tree](./Tree/Binary-Search-Tree-to-Greater-Sum-Tree.js)
 2. [Binary Tree Coloring Game](./Tree/Binary-Tree-Coloring-Game.js)
@@ -360,6 +360,7 @@
 24. [Delete Leaves With a Given Value](./Tree/Delete-Leaves-With-a-Given-Value.js)
 25. [Path Sum III](./Tree/Path-Sum-III.js)
 26. [Binary Tree Zigzag Level Order Traversal](./Tree/Binary-Tree-Zigzag-Level-Order-Traversal.js)
+27. [Construct Binary Tree from Inorder and Postorder Traversal](./Tree/Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal.js)
 
 ### 🔤 Trie (3)
 
