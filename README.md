@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 317** 🎉
+**Total Problems Solved: 318** 🎉
 
 ## 📖 Problems by Topic
 
@@ -369,11 +369,12 @@
 27. [Construct Binary Tree from Inorder and Postorder Traversal](./Tree/Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal.js)
 28. [Kth Largest Sum in a Binary Tree](./Tree/Kth-Largest-Sum-in-a-Binary-Tree.js)
 
-### 🔤 Trie (3)
+### 🔤 Trie (4)
 
 1. [Lexicographical Numbers](./Trie/Lexicographical-Numbers.js)
 2. [Remove Sub Folders from the Filesystem](./Trie/Remove-Sub-Folders-from-the-Filesystem.js)
 3. [Replace Words](./Trie/Replace-Words.js)
+4. [Search Suggestions System](./Trie/Search-Suggestions-System.js)
 
 ### ⬅️➡️ Two Pointers (14)
 
