@@ -44,33 +44,25 @@ hamsters[i] is either'H' or '.'.
  * @param {string} hamsters
  * @return {number}
  */
-var minimumBuckets = function (hamsters) {
-    let count = 0, n = hamsters.length;
+var minimumBuckets = function(hamsters) {
+    let count = 0;
+    let positions = hamsters.split('');
+    let len = positions.length;
 
-    hamsters = hamsters.split('');
+    for(let i = 0; i < len; i++){
+        if(positions[i] === '.' || positions[i] === 'F') continue;
 
-    for (let i = 0; i < n; i++) {
-        if (hamsters[i] !== 'H') continue;
+        if(i > 0 && positions[i-1] === 'F') continue;
 
-        let alreadyFeed = false;
-
-        if (i !== 0 && hamsters[i - 1] === 'D') {
-            alreadyFeed = true;
+        if(i < len-1 && positions[i+1] === '.'){
+            positions[i+1] = 'F';
+            count++;
+        }else if(i > 0 && positions[i-1] === '.'){
+            positions[i-1] = 'F';
+            count++;
+        }else{
+            return -1;
         }
-
-        if (!alreadyFeed) {
-            if (i !== n - 1 && hamsters[i + 1] === '.') {
-                hamsters[i + 1] = 'D';
-                count++;
-                alreadyFeed = true;
-            } else if (i !== 0 && hamsters[i - 1] === '.') {
-                hamsters[i - 1] = 'D';
-                count++;
-                alreadyFeed = true;
-            }
-        }
-
-        if (!alreadyFeed) return -1;
     }
 
     return count;

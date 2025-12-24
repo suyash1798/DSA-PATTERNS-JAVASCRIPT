@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 318** 🎉
+**Total Problems Solved: 319** 🎉
 
 ## 📖 Problems by Topic
 
@@ -194,7 +194,7 @@
 36. [Maximum Split of Positive Even Integers](./Greedy/Maximum-Split-of-Positive-Even-Integers.js)
 37. [Previous Permutation With One Swap](./Greedy/Previous-Permutation-With-One-Swap.js)
 
-### 🗺️ HashMap (19)
+### 🗺️ HashMap (20)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -215,6 +215,7 @@
 17. [Pairs of Songs With Total Durations Divisible by 60](./HashMap/Pairs-of-Songs-With-Total-Durations-Divisible-by-60.js)
 18. [Construct K Palindrome Strings](./HashMap/Construct-K-Palindrome-Strings.js)
 19. [K Divisible Elements Subarrays](./HashMap/K-Divisible-Elements-Subarrays.js)
+20. [Report Spam Message](./HashMap/Report-Spam-Message.js)
 
 ### ⚙️ Heap (13)
 
