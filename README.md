@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 323** 🎉
+**Total Problems Solved: 324** 🎉
 
 ## 📖 Problems by Topic
 
@@ -155,7 +155,7 @@
 22. [Network Delay Time](./Graph/Network-Delay-Time.js)
 23. [Number of Nodes in the Sub-Tree With the Same Label](./Graph/Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.js)
 
-### 🎯 Greedy (37)
+### 🎯 Greedy (38)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -194,6 +194,7 @@
 35. [Two City Scheduling](./Greedy/Two-City-Scheduling.js)
 36. [Maximum Split of Positive Even Integers](./Greedy/Maximum-Split-of-Positive-Even-Integers.js)
 37. [Previous Permutation With One Swap](./Greedy/Previous-Permutation-With-One-Swap.js)
+38. [Minimum Time to Make Rope Colorful](./Greedy/Minimum-Time-to-Make-Rope-Colorful.js)
 
 ### 🗺️ HashMap (20)
 
