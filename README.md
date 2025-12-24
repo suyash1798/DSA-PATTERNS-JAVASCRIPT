@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 320** 🎉
+**Total Problems Solved: 321** 🎉
 
 ## 📖 Problems by Topic
 
@@ -256,7 +256,7 @@
 11. [Reorder List](./Linked-List/Reorder-List.js)
 12. [Insertion Sort List](./Linked-List/Insertion-Sort-List.js)
 
-### ➗ Math (11)
+### ➗ Math (12)
 
 1. [Alice and Bob Playing Flower Game](./Math/Alice-and-Bob-Playing-Flower-Game.js)
 2. [Broken Calculator](./Math/Broken-Calculator.js)
@@ -269,6 +269,7 @@
 9. [Largest Prime from Consecutive Prime Sum](./Math/Largest-Prime-from-Consecutive-Prime-Sum.js)
 10. [Number of Smooth Descent Periods of a Stock](./Math/Number-of-Smooth-Descent-Periods-of-a-Stock.js)
 11. [Sum of Number and Its Reverse](./Math/Sum-of-Number-and-Its-Reverse.js)
+12. [Maximum Manhattan Distance After K Changes](./Math/Maximum-Manhattan-Distance-After-K-Changes.js)
 
 ### 📐 Matrix (13)
 
