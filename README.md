@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 327** 🎉
+**Total Problems Solved: 328** 🎉
 
 ## 📖 Problems by Topic
 
@@ -198,7 +198,7 @@
 37. [Previous Permutation With One Swap](./Greedy/Previous-Permutation-With-One-Swap.js)
 38. [Minimum Time to Make Rope Colorful](./Greedy/Minimum-Time-to-Make-Rope-Colorful.js)
 
-### 🗺️ HashMap (21)
+### 🗺️ HashMap (22)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -221,6 +221,7 @@
 19. [K Divisible Elements Subarrays](./HashMap/K-Divisible-Elements-Subarrays.js)
 20. [Report Spam Message](./HashMap/Report-Spam-Message.js)
 21. [Longest Square Streak in an Array](./HashMap/Longest-Square-Streak-in-an-Array.js)
+22. [Minimum Deletion Cost to Make All Characters Equal](./HashMap/Minimum-Deletion-Cost-to-Make-All-Characters-Equal.js)
 
 ### ⚙️ Heap (13)
 
