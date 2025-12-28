@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 357** 🎉
+**Total Problems Solved: 358** 🎉
 
 ## 📖 Problems by Topic
 
@@ -239,7 +239,7 @@
 24. [Number of Pairs of Strings With Concatenation Equal to Target](./HashMap/Number-of-Pairs-of-Strings-With-Concatenation-Equal-to-Target.js)
 25. [Groups of Special Equivalent Strings](./HashMap/Groups-of-Special-Equivalent-Strings.js)
 
-### ⚙️ Heap (13)
+### ⚙️ Heap (14)
 
 1. [Divide Intervals Into Minimum Number of Groups](./Heap/Divide-Intervals-Into-Minimum-Number-of-Groups.js)
 2. [K Closest Points to Origin](./Heap/K-Closest-Points-to-Origin.js)
@@ -254,6 +254,7 @@
 11. [Kth Largest Element in a Stream](./Heap/Kth-Largest-Element-in-a-Stream.js)
 12. [Kth Nearest Obstacle Queries](./Heap/K-th-Nearest-Obstacle-Queries.js)
 13. [Maximal Score After Applying K Operations](./Heap/Maximal-Score-After-Applying-K-Operations.js)
+14. [Top K Frequent Words](./Heap/Top-K-Frequent-Words.js)
 
 ### 💻 JavaScript (4)
 
