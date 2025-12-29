@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 362** 🎉
+**Total Problems Solved: 364** 🎉
 
 ## 📖 Problems by Topic
 
@@ -167,7 +167,7 @@
 24. [Min Cost to Connect All Points](./Graph/Min-Cost-to-Connect-All-Points.js)
 25. [Number of Restricted Paths From First to Last Node](./Graph/Number-of-Restricted-Paths-From-First-to-Last-Node.js)
 
-### 🎯 Greedy (42)
+### 🎯 Greedy (43)
 
 1. [Best Time to Buy and Sell Stock II](./Greedy/Best-Time-to-Buy-and-Sell-Stock-II.js)
 2. [Boats to Save People](./Greedy/Boats-to-Save-People.js)
@@ -211,6 +211,7 @@
 40. [Destroying Asteroids](./Greedy/Destroying-Asteroids.js)
 41. [Pancake Sorting](./Greedy/Pancake-Sorting.js)
 42. [Minimum Number of Arrows to Burst Balloons](./Greedy/Minimum-Number-of-Arrows-to-Burst-Balloons.js)
+43. [Add Minimum Number of Rungs](./Greedy/Add-Minimum-Number-of-Rungs.js)
 
 ### 🗺️ HashMap (25)
 
@@ -264,7 +265,7 @@
 3. [Nested Array Generator](./Javascript/Nested-Array-Generator.js)
 4. [Promise Time Limit](./Javascript/Promise-Time-Limit.js)
 
-### 🔗 Linked List (13)
+### 🔗 Linked List (14)
 
 1. [Add Two Numbers](./Linked-List/Add-Two-Numbers.js)
 2. [Double a Number Represented as a Linked List](./Linked-List/Double-a-Number-Represented-as-a-Linked-List.js)
@@ -279,6 +280,7 @@
 11. [Reorder List](./Linked-List/Reorder-List.js)
 12. [Insertion Sort List](./Linked-List/Insertion-Sort-List.js)
 13. [Remove Nth Node From End of List](./Linked-List/Remove-Nth-Node-From-End-of-List.js)
+14. [Delete the Middle Node of a Linked List](./Linked-List/Delete-the-Middle-Node-of-a-Linked-List.js)
 
 ### ➗ Math (17)
 
