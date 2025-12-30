@@ -69,3 +69,49 @@ var canFinish = function (numCourses, prerequisites) {
 
     return true;
 };
+
+
+
+// Topological Sort - Kahn's Algorithm
+
+
+/**
+ * @param {number} numCourses
+ * @param {number[][]} prerequisites
+ * @return {boolean}
+ */
+var canFinish = function (numCourses, prerequisites) {
+    let graph = {};
+    let indegree = new Array(numCourses).fill(0);
+
+    for (let [a, b] of prerequisites) {
+        if (!graph[b]) graph[b] = [];
+
+        graph[b].push(a);
+        indegree[a]++;
+    }
+
+    let queue = [], qi = 0, done = 0;
+
+    for (let i = 0; i < numCourses; i++) {
+        if (indegree[i] !== 0) continue;
+
+        queue.push(i);
+    }
+
+    while (qi < queue.length) {
+        let node = queue[qi++];
+
+        done++;
+
+        for (let n of (graph[node] || [])) {
+            indegree[n]--;
+
+            if (indegree[n] === 0) {
+                queue.push(n);
+            }
+        }
+    }
+
+    return done === numCourses;
+};

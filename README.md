@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 368** 🎉
+**Total Problems Solved: 369** 🎉
 
 ## 📖 Problems by Topic
 
@@ -321,7 +321,7 @@
 15. [Range Sum Query 2D Immutable](./Matrix/Range-Sum-Query-2D-Immutable.js)
 16. [Decode the Slanted Ciphertext](./Matrix/Decode-the-Slanted-Ciphertext.js)
 
-### ➕ Prefix Sum (13)
+### ➕ Prefix Sum (14)
 
 1. [Find All Good Indices](./Prefix-Sum/Find-All-Good-Indices.js)
 2. [Find Good Days to Rob the Bank](./Prefix-Sum/Find-Good-Days-to-Rob-the-Bank.js)
@@ -336,6 +336,7 @@
 11. [Plates Between Candles](./Prefix-Sum/Plates-Between-Candles.js)
 12. [Partition Array into Disjoint Intervals](./Prefix-Sum/Partition-Array-into-Disjoint-Intervals.js)
 13. [Minimum Index of a Valid Split](./Prefix-Sum/Minimum-Index-of-a-Valid-Split.js)
+14. [Minimum Sum of Mountain Triplets II](./Prefix-Sum/Minimum-Sum-of-Mountain-Triplets-II.js)
 
 ### 🪟 Sliding Window (19)
 
