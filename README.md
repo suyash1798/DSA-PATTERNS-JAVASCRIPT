@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 366** 🎉
+**Total Problems Solved: 367** 🎉
 
 ## 📖 Problems by Topic
 
@@ -337,7 +337,7 @@
 12. [Partition Array into Disjoint Intervals](./Prefix-Sum/Partition-Array-into-Disjoint-Intervals.js)
 13. [Minimum Index of a Valid Split](./Prefix-Sum/Minimum-Index-of-a-Valid-Split.js)
 
-### 🪟 Sliding Window (18)
+### 🪟 Sliding Window (19)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -358,6 +358,7 @@
 16. [Arithmetic Slices](./Sliding-Window/Arithmetic-Slices.js)
 17. [Count Alternating Subarrays](./Sliding-Window/Count-Alternating-Subarrays.js)
 18. [Minimum Swaps to Group All 1's Together II](./Sliding-Window/Minimum-Swaps-to-Group-All-1's-Together-II.js)
+19. [Fruit Into Baskets](./Sliding-Window/Fruit-Into-Baskets.js)
 
 ### 📚 Stack (11)
 
