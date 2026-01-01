@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 382** 🎉
+**Total Problems Solved: 384** 🎉
 
 ## 📖 Problems by Topic
 
@@ -217,7 +217,7 @@
 42. [Minimum Number of Arrows to Burst Balloons](./Greedy/Minimum-Number-of-Arrows-to-Burst-Balloons.js)
 43. [Add Minimum Number of Rungs](./Greedy/Add-Minimum-Number-of-Rungs.js)
 
-### 🗺️ HashMap (27)
+### 🗺️ HashMap (28)
 
 1. [Convert an Array Into a 2D Array With Conditions](./HashMap/Convert-an-Array-Into-a-2D-Array-With-Conditions.js)
 2. [Count Number of Distinct Integers After Reverse Operations](./HashMap/Count-Number-of-Distinct-Integers-After-Reverse-Operations.js)
@@ -246,6 +246,7 @@
 25. [Groups of Special Equivalent Strings](./HashMap/Groups-of-Special-Equivalent-Strings.js)
 26. [Custom Sort String](./HashMap/Custom-Sort-String.js)
 27. [Max Number of K Sum Pairs](./HashMap/Max-Number-of-K-Sum-Pairs.js)
+28. [Longest Balanced Substring I](./HashMap/Longest-Balanced-Substring-I.js)
 
 ### ⚙️ Heap (16)
 
@@ -332,7 +333,7 @@
 16. [Decode the Slanted Ciphertext](./Matrix/Decode-the-Slanted-Ciphertext.js)
 17. [Count Artifacts That Can Be Extracted](./Matrix/Count-Artifacts-That-Can-Be-Extracted.js)
 
-### ➕ Prefix Sum (15)
+### ➕ Prefix Sum (16)
 
 1. [Find All Good Indices](./Prefix-Sum/Find-All-Good-Indices.js)
 2. [Find Good Days to Rob the Bank](./Prefix-Sum/Find-Good-Days-to-Rob-the-Bank.js)
@@ -349,6 +350,7 @@
 13. [Minimum Index of a Valid Split](./Prefix-Sum/Minimum-Index-of-a-Valid-Split.js)
 14. [Minimum Sum of Mountain Triplets II](./Prefix-Sum/Minimum-Sum-of-Mountain-Triplets-II.js)
 15. [Number of Ways to Split Array](./Prefix-Sum/Number-of-Ways-to-Split-Array.js)
+16. [Corporate Flight Bookings](./Prefix-Sum/Corporate-Flight-Bookings.js)
 
 ### 🪟 Sliding Window (19)
 
