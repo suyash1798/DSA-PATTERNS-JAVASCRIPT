@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 379** 🎉
+**Total Problems Solved: 380** 🎉
 
 ## 📖 Problems by Topic
 
@@ -246,7 +246,7 @@
 26. [Custom Sort String](./HashMap/Custom-Sort-String.js)
 27. [Max Number of K Sum Pairs](./HashMap/Max-Number-of-K-Sum-Pairs.js)
 
-### ⚙️ Heap (15)
+### ⚙️ Heap (16)
 
 1. [Divide Intervals Into Minimum Number of Groups](./Heap/Divide-Intervals-Into-Minimum-Number-of-Groups.js)
 2. [K Closest Points to Origin](./Heap/K-Closest-Points-to-Origin.js)
@@ -263,6 +263,7 @@
 13. [Maximal Score After Applying K Operations](./Heap/Maximal-Score-After-Applying-K-Operations.js)
 14. [Top K Frequent Words](./Heap/Top-K-Frequent-Words.js)
 15. [Total Cost to Hire K Workers](./Heap/Total-Cost-to-Hire-K-Workers.js)
+16. [Maximum Sum With at Most K Elements](./Heap/Maximum-Sum-With-at-Most-K-Elements.js)
 
 ### 💻 JavaScript (4)
 
