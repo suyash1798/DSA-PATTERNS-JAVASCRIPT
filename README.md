@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 398** 🎉
+**Total Problems Solved: 399** 🎉
 
 ## 📖 Problems by Topic
 
@@ -362,7 +362,7 @@
 15. [Number of Ways to Split Array](./Prefix-Sum/Number-of-Ways-to-Split-Array.js)
 16. [Corporate Flight Bookings](./Prefix-Sum/Corporate-Flight-Bookings.js)
 
-### 🪟 Sliding Window (22)
+### 🪟 Sliding Window (23)
 
 1. [Find the Power of K Size Subarrays I](./Sliding-Window/Find-the-Power-of-K-Size-Subarrays-I.js)
 2. [Longest Substring Without Repeating Characters](./Sliding-Window/Longest-Substring-Without-Repeating-Characters.js)
@@ -387,6 +387,7 @@
 20. [Minimum Size Subarray Sum](./Sliding-Window/Minimum-Size-Subarray-Sum.js)
 21. [Maximum Erasure Value](./Sliding-Window/Maximum-Erasure-Value.js)
 22. [Maximum Length of Subarray With Positive Product](./Sliding-Window/Maximum-Length-of-Subarray-With-Positive-Product.js)
+23. [Minimum Window Substring](./Sliding-Window/Minimum-Window-Substring.js)
 
 ### 📚 Stack (12)
 
