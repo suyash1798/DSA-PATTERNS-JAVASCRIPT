@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 405** 🎉
+**Total Problems Solved: 406** 🎉
 
 ## 📖 Problems by Topic
 
@@ -91,7 +91,7 @@
 16. [Min Stack](./Design/Min-Stack.js)
 17. [Seat Reservation Manager](./Design/Seat-Reservation-Manager.js)
 
-### 💡 Dynamic Programming (56)
+### 💡 Dynamic Programming (57)
 
 1. [0 1 KnapSack](./Dynamic-Programming/0-1-KnapSack.js)
 2. [Coin Change II](./Dynamic-Programming/Coin-Change-II.js)
@@ -149,6 +149,7 @@
 54. [Number of Ways to Paint N × 3 Grid](./Dynamic-Programming/Number-of-Ways-to-Paint-N-×-3-Grid.js)
 55. [Burst Balloons](./Dynamic-Programming/Burst-Balloons.js)
 56. [Shopping Offers](./Dynamic-Programming/Shopping-Offers.js)
+57. [Minimum ASCII Delete Sum for Two Strings](./Dynamic-Programming/Minimum-ASCII-Delete-Sum-for-Two-Strings.js)
 
 ### 🧭 Graph (27)
 
