@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 409** 🎉
+**Total Problems Solved: 410** 🎉
 
 ## 📖 Problems by Topic
 
@@ -45,7 +45,7 @@
 6. [Capacity To Ship Packages Within D Days](./Binary-Search/Capacity-To-Ship-Packages-Within-D-Days.js)
 7. [Find First and Last Position of Element in Sorted Array](./Binary-Search/Find-First-and-Last-Position-of-Element-in-Sorted-Array.js)
 
-### 🔢 BitWise (12)
+### 🔢 BitWise (13)
 
 1. [Bitwise AND of Numbers Range](./BitWise/Bitwise-AND-of-Numbers-Range.js)
 2. [Count Number of Maximum Bitwise OR Subsets](./BitWise/Count-Number-of-Maximum-Bitwise-OR-Subsets.js)
@@ -59,6 +59,7 @@
 10. [Minimum Impossible OR](./BitWise/Minimum-Impossible-OR.js)
 11. [Maximum Product of Word Lengths](./BitWise/Maximum-Product-of-Word-Lengths.js)
 12. [XOR Queries of a Subarray](./BitWise/XOR-Queries-of-a-Subarray.js)
+13. [Missing Number](./Bit-Manipulation/Missing-Number.js)
 
 ### 🗂️ Bucket Sort (1)
 
