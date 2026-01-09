@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 421** 🎉
+**Total Problems Solved: 422** 🎉
 
 ## 📖 Problems by Topic
 
@@ -476,7 +476,7 @@
 4. [Search Suggestions System](./Trie/Search-Suggestions-System.js)
 5. [Implement Trie (Prefix Tree)](./Trie/Implement-Trie-%28Prefix-Tree%29.ts)
 
-### ⬅️➡️ Two Pointers (17)
+### ⬅️➡️ Two Pointers (18)
 
 1. [Append Characters to String to Make Subsequence](./Two-Pointers/Append-Characters-to-String-to-Make-Subsequence.js)
 2. [Find K Closest Elements](./Two-Pointers/Find-K-Closest-Elements.js)
@@ -495,5 +495,6 @@
 15. [Advantage Shuffle](./Two-Pointers/Advantage-Shuffle.js)
 16. [Remove Duplicates from Sorted Array II](./Two-Pointers/Remove-Duplicates-from-Sorted-Array-II.js)
 17. [Find the Duplicate Number](./Two-Pointers/Find-the-Duplicate-Number.js)
+18. [Shortest Subarray to be Removed to Make Array Sorted](./Two-Pointers/Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted.js)
 
 ---
