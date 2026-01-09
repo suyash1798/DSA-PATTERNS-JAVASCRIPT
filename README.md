@@ -1,6 +1,6 @@
 # 🚀 DSA Patterns - JavaScript
 
-**Total Problems Solved: 420** 🎉
+**Total Problems Solved: 421** 🎉
 
 ## 📖 Problems by Topic
 
@@ -468,12 +468,13 @@
 37. [Binary Tree Pruning](./Tree/Binary-Tree-Pruning.js)
 38. [Smallest Subtree with all the Deepest Nodes](./Tree/Smallest-Subtree-with-all-the-Deepest-Nodes.js)
 
-### 🔤 Trie (4)
+### 🔤 Trie (5)
 
 1. [Lexicographical Numbers](./Trie/Lexicographical-Numbers.js)
 2. [Remove Sub Folders from the Filesystem](./Trie/Remove-Sub-Folders-from-the-Filesystem.js)
 3. [Replace Words](./Trie/Replace-Words.js)
 4. [Search Suggestions System](./Trie/Search-Suggestions-System.js)
+5. [Implement Trie (Prefix Tree)](./Trie/Implement-Trie-%28Prefix-Tree%29.ts)
 
 ### ⬅️➡️ Two Pointers (17)
 
